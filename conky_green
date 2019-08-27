@@ -1,6 +1,5 @@
 conky.config = {
 	alignment = 'top_right',
-  xinerama_head = 1,
 	background = true,
 	color2 = '2ECC71',
 	cpu_avg_samples = 2,
