@@ -18,7 +18,7 @@ conky.config = {
 }
 conky.text = [[
 ${color2}help - ${color}mod+Shift+h
-default mod=<Super>"Windows Key"
+${color2}default mod = ${color}<Super>"Windows Key"
 
 ${color2}open new terminal - ${color}mod+Enter
 ${color2}open file manager - ${color}mod+F3
